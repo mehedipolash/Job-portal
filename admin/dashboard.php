@@ -447,7 +447,7 @@ if (!isset($_SESSION['user_type']) || $_SESSION['user_type'] !== 'admin') {
     <header class="header">
         <div class="logo">
             <i class="fas fa-crown"></i>
-            <h1>TalentHub Admin</h1>
+            <h1>Admin</h1>
         </div>
         <div class="user-info">
             <div class="user-greeting">
@@ -560,7 +560,7 @@ if (!isset($_SESSION['user_type']) || $_SESSION['user_type'] !== 'admin') {
     </div>
     
     <footer class="footer">
-        <p>&copy; 2025  Admin Dashboard. All rights reserved by MD Mehedi Hasan Polash <i class="fas fa-heart" style="color: var(--danger);"></i></p>
+        <p>&copy; 2025  Admin Dashboard. All rights reserved by MD MEHEDI HASAN POLASH.</p>
     </footer>
 </body>
 </html>
