@@ -413,7 +413,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <div class="circle circle-2"></div>
   
   <!-- Left decorative panel -->
-  <div class="decoration-panel">
+  <div style="background-color:#2c3e50;" class="decoration-panel">
     <div class="content-wrapper">
       <div class="logo">
         <i class="fas fa-briefcase"></i>
@@ -438,7 +438,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   </div>
   
   <!-- Form container (right side) -->
-  <div class="form-container">
+  <div style="background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e'); background-size: cover; background-position: center;" class="form-container">
+
     <div class="form-wrapper">
       <h2>Login to Your Account</h2>
       

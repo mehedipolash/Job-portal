@@ -435,7 +435,7 @@ if (!isset($_SESSION['user_type']) || $_SESSION['user_type'] !== 'premium') {
         </div>
         
         <footer class="footer">
-            <p>&copy; <?php echo date('Y'); ?> Job Portal Premium Dashboard. All rights reserved.</p>
+            <p>&copy; <?php echo date('Y'); ?> Job Portal Premium Dashboard. All rights reserved by MD MEHEDI HASAN POLASH.</p>
         </footer>
     </div>
 </body>

@@ -313,7 +313,7 @@
   <div class="circle circle-2"></div>
   
   <!-- Left decorative panel -->
-  <div class="decoration-panel">
+  <div style="background-color: #155724;" class="decoration-panel">
     <div class="content-wrapper">
       <div class="logo">
         <i class="fas fa-briefcase"></i>
@@ -338,7 +338,7 @@
   </div>
   
   <!-- Form container (right side) -->
-  <div class="form-container">
+  <div style="background: linear-gradient(135deg, #8e2de2, #4a00e0)" class="form-container">
     <div class="form-wrapper">
       <h2>User Registration</h2>
       <?php
