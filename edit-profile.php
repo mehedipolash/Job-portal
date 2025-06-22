@@ -327,7 +327,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </div>
         
         <div class="footer">
-            &copy; <?php echo date('Y'); ?>  All rights reserved by MD MEHEDI HASAN POLASH.
+            &copy; <?php echo date('Y'); ?>  All rights reserved by MD. MEHEDI HASAN POLASH.
         </div>
     </div>
 </body>
